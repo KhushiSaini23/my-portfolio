@@ -1,16 +1,26 @@
-# React + Vite
+## Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern and fully responsive personal portfolio website developed using React.js. The project is designed to showcase my skills, projects, technical knowledge, and professional background through a clean and interactive user interface.
 
-Currently, two official plugins are available:
+The portfolio focuses on performance, responsive design, and user experience, ensuring smooth navigation across different devices and screen sizes. It includes sections for project showcases, technical skills, about information, and contact details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The main objective of this project was to strengthen my frontend development skills and gain practical experience in building scalable and reusable React components while following modern web development practices.
 
-## React Compiler
+### Technologies Used
+React.js
+JavaScript
+HTML5
+CSS3
+Bootstrap / Tailwind CSS
+Git & GitHub
+Features
+Responsive Design
+Reusable React Components
+Clean and Modern UI
+Project Showcase Section
+Skills and About Section
+Contact Information Section
+Optimized Performance
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Purpose of the Project
+This portfolio project was created to present my work and technical abilities in a professional manner and to improve my practical understanding of frontend development using React.js.
